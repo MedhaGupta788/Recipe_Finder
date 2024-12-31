@@ -1,0 +1,63 @@
+
+[
+  {
+    "id": 1,
+    "title": "Appetizers",
+    "description": "Explore a wide variety of appetizer recipes.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0vvVKaoxbb45nD0eu-fbG39w-ashTphtkbw&s"
+  },
+  {
+    "id": 2,
+    "title": "Main Courses",
+    "description": "Find delicious main course recipes tailored to your taste.",
+    "image": "https://images.picxy.com/cache/2020/7/11/7a203969763ebf0a294de316daf81e44.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Desserts",
+    "description": "Discover the best dessert recipes for every occasion.",
+    "image": "https://cdn.fs.teachablecdn.com/XUWu3swSSGunyDDWnMC4"
+  },
+  {
+    "id": 4,
+    "title": "Vegan",
+    "description": "Find healthy and tasty vegan recipes.",
+    "image": "https://images.squarespace-cdn.com/content/v1/53290cd2e4b091b8426b546b/1409099574276-CJ0CO37ZV2D27S8TE6TV/image-asset.jpeg?format=1500wbreakfast"
+  },
+  {
+    "id": 5,
+    "title": "Breakfast",
+    "description": "Start your day with these delicious breakfast recipes.",
+    "image": "https://media.istockphoto.com/id/625232510/photo/breakfast-served-with-coffee-juice-egg-and-rolls.jpg?s=612x612&w=0&k=20&c=FpzWoH6EyCJGzUntgj5vmyj-BncNETFqQ1af78EMBb8="
+  },
+  {
+    "id": 6,
+    "title": "Snacks",
+    "description": "Perfect snacks to munch on at any time of the day.",
+    "image": "https://www.grandecig.com/hs-fs/hubfs/images/blog_images/2019-Blog-Images/Savory_Snacks.jpg?width=734&name=Savory_Snacks.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Beverages",
+    "description": "Refreshing drink recipes for all occasions.",
+    "image": "https://media.istockphoto.com/id/504754220/photo/cocktails.jpg?s=612x612&w=0&k=20&c=NxIzGT-LbUS0BAPoCMDY3mEp96AnIxxldbWmFMeeD-A="
+  },
+  {
+    "id": 8,
+    "title": "Healthy",
+    "description": "Discover healthy recipes for a balanced diet.",
+    "image": "https://media.istockphoto.com/id/1457433817/photo/group-of-healthy-food-for-flexitarian-diet.jpg?s=612x612&w=0&k=20&c=v48RE0ZNWpMZOlSp13KdF1yFDmidorO2pZTu2Idmd3M="
+  },
+  {
+    "id": 9,
+    "title": "Soups",
+    "description": "Warm and comforting soups to enjoy anytime.",
+    "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Vegetable-Turkey-Soup_EXPS_FT21_27276_F_1117_1.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Grilled",
+    "description": "Amazing grilled recipes for your BBQ sessions.",
+    "image": "https://img.freepik.com/free-photo/grilled-chicken-legs-flaming-grill-with-grilled-vegetables-with-tomatoes-potatoes-pepper-seeds-salt_1150-37782.jpg?semt=ais_hybrid"
+  }
+]

@@ -1,0 +1,49 @@
+ {
+  "contributeRecipeData" :[
+  {
+    "id": 1,
+    "title": "Spaghetti Carbonara",
+    "ingredients": ["Spaghetti", "Eggs", "Bacon", "Parmesan", "Garlic", "Black Pepper", "Salt"],
+    "instructions": "Cook the spaghetti according to the package directions. Fry the bacon until crispy. Mix eggs and Parmesan together. Combine hot pasta with bacon and egg mixture, adding garlic and seasoning. Stir quickly to create a creamy sauce.",
+    "image": "https://www.marthastewart.com/thmb/S9xVtnWSHldvxPHKOxEq0bALG-k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/MSL-338686-spaghetti-carbonara-hero-3x2-69999-560b45d1dd9f4741b717176eff024839.jpeg",
+    "likes": 45,
+    "dislikes": 2
+  },
+  {
+    "id": 2,
+    "title": "Chicken Alfredo",
+    "ingredients": ["Chicken Breast", "Fettuccine", "Heavy Cream", "Garlic", "Parmesan", "Butter", "Parsley", "Salt", "Black Pepper"],
+    "instructions": "Cook the fettuccine pasta. In a pan, cook chicken breast until golden. Add garlic and butter, then pour in heavy cream and Parmesan, and stir to form the sauce. Mix in the pasta, adding salt, pepper, and parsley to taste.",
+    "image": "https://fedbysab.com/wp-content/uploads/2023/01/Chicken-Alfredo-Bake-Recipe.jpg",
+    "likes": 68,
+    "dislikes": 5
+  },
+  {
+    "id": 3,
+    "title": "Caesar Salad",
+    "ingredients": ["Lettuce", "Croutons", "Parmesan", "Caesar Dressing", "Garlic", "Lemon Juice", "Black Pepper"],
+    "instructions": "Wash and chop the lettuce. Toss with croutons, Parmesan, and Caesar dressing. Add lemon juice and freshly ground black pepper. Mix well and serve.",
+    "image": "https://cookingwithayeh.com/wp-content/uploads/2023/11/Healthy-Caesar-Salad-Without-Anchovies-SQ-5.jpg",
+    "likes": 30,
+    "dislikes": 1
+  },
+  {
+    "id": 4,
+    "title": "Vegetable Stir Fry",
+    "ingredients": ["Carrot", "Bell Peppers", "Broccoli", "Soy Sauce", "Garlic", "Ginger", "Sesame Oil", "Tofu"],
+    "instructions": "Cut vegetables into bite-sized pieces. Stir fry garlic and ginger in sesame oil, then add tofu and vegetables. Add soy sauce and cook until vegetables are tender. Serve with rice.",
+    "image": "https://i0.wp.com/www.thesmalltownfoodie.com/wp-content/uploads/2018/05/Vegetable-Stir-Fry2.png?resize=515%2C729",
+    "likes": 25,
+    "dislikes": 3
+  },
+  {
+    "id": 5,
+    "title": "Chocolate Cake",
+    "ingredients": ["Flour", "Cocoa Powder", "Sugar", "Baking Powder", "Eggs", "Milk", "Butter", "Vanilla Extract", "Chocolate Chips"],
+    "instructions": "Mix dry ingredients, then add eggs, milk, melted butter, and vanilla extract. Pour into a cake pan and bake at 350°F for 25-30 minutes. Let it cool and top with chocolate chips.",
+    "image": "https://www.bakedambrosia.com/wp-content/uploads/2023/10/Moist-Chocolate-Cake-20.jpg",
+    "likes": 120,
+    "dislikes": 4
+  }
+]
+ }
